@@ -1,51 +1,17 @@
-# Lyrics
-
+---
+layout: default
+---
 [back](./)
 
-## Scenes
+# Lyrics by Scenes
 
-### Act 1 11/25
-1. Overture
-1. Napoleon's Dream
-1. Joan after winning Orleans: Vive Jeanne
-1. Joan is betrayed by King Charles VII: Too much Sainthood on their Minds
-1. The Paris Walls: Last Supper
-1. Jesus, Jesus, I'll Burn
-1. Then We Are Decided
-1. Blood Money
-1. Betrayal
-1. Joan is tried by Cauchon in Rouen: This Maiden has to Burn
-1. Joan is burned to the stake in Rouen: Rouen Burning
-
-## Act 2 14/25
-1. Apotheosis: Everything's Alright
-1. Mystifying
-1. What's The Buzz
-1. Retried by Napoleon: Napoleon and Joan
-1. Retried by The Pope: The Pope's Song
-1. Retried by Napoleon again: Trial before Napoleon
-1. Christ: I Know How To Lead Her
-1. La Hire, Mercenary
-1. Poor France
-1. Rouen
-1. Paris
-1. Retried by Jesus Christ: Could We Start Again?
-1. SuperMaiden
-1. John Nineteen: Twenty-Two
-
-## Bonus 2/27
-
-1. A Churchman's Denials
-1. A Follower's Death
-
-
-## ACT I
+## ACT I 11/25
 
 ### Overture
-https://youtu.be/O8TqEvPpLw0
+[v1](https://youtu.be/O8TqEvPpLw0)
 
 ### Napoleon's Dream
-https://youtu.be/rAkL9TsJcSg
+[v1](https://youtu.be/rAkL9TsJcSg)
 
 ```
 NAPOLEON
@@ -74,7 +40,7 @@ Vive L'Empereur!
 ```
 
 ### Vive Jeanne
-https://youtu.be/7BDH2yB7jEM
+[v1](https://youtu.be/7BDH2yB7jEM)
 ```
 FOLLOWERS
 
@@ -142,10 +108,11 @@ FOLLOWERS
 
 Hey Joan, Joan, won't you burn for me?
 Jeanne, Vive Jeanne, Hey Maid of Orléans!
+```
 
 ### Too much Sainthood on their Minds
-https://youtu.be/neE6t0WsEPQ
-
+[v1](https://youtu.be/neE6t0WsEPQ)
+```
 KING CHARLES VII
 
 My mind is clearer now,
@@ -205,7 +172,7 @@ C'mon, c'mon,
 She won't listen to me...
 ```
 ### The Paris Walls
-https://youtu.be/QlgfxUGR8rg
+[v1](https://youtu.be/QlgfxUGR8rg)
 ```
 FOLLOWERS
 
@@ -343,7 +310,7 @@ Soldiers, Priests, Frenchmen?
 ```
 
 ### Jesus, Jesus, I'll burn!
-https://youtu.be/nhDhyH0ggcM
+[v1](https://youtu.be/nhDhyH0ggcM)
 ```
 JOAN
 
@@ -404,7 +371,7 @@ Take me, now!
 Before my heart gives up.
 ```
 ### Then We Are Decided
-https://youtu.be/6TaDdqBx_3c
+[v1](https://youtu.be/6TaDdqBx_3c)
 ```
 CAUCHON
 
@@ -474,8 +441,9 @@ D'ESTIVET
 
 Then we are decided. 
 ```
+
 ### Blood Money
-https://youtu.be/gVVZ3EzD_WA
+[v1](https://youtu.be/gVVZ3EzD_WA)
 ```
 KING CHARLES VII
 
@@ -569,8 +537,10 @@ BURGUNDIANS
 
 Well done Sire. Good old Charles.
 ```
+
 ### Betrayal
-https://youtu.be/Wsr5j8VmW9Q
+[v1](https://youtu.be/Wsr5j8VmW9Q)
+
 ```
 JOAN
 
@@ -656,7 +626,7 @@ Now we've got her! (Repeat 4 times)
 Take her to Rouen! (Repeat 4 times)
 ```
 ### This Maden has to Burn
-https://youtu.be/CzMVarleRhA
+[v1](https://youtu.be/CzMVarleRhA)
 ```
 CHURCH ACTOR ONE
 
@@ -812,9 +782,8 @@ We must burn her completely, this Maiden must burn to thin dust!
 She must burn completely, no proof of her being to everlast!
 ```
 
-
 ### Rouen Burning
-https://youtu.be/1mfNIxvW1f0
+[v1](https://youtu.be/1mfNIxvW1f0)
 ```
 JOAN
 
@@ -822,14 +791,12 @@ Christ, forgive Rouen.
 They don't know what they're doing.
 Jesus, Jesus, why have you forgotten me?
 Lord, into your hands, I commend my spirit.
-
 ```
 
-
-## ACT II
+## ACT II 14/25
 
 ### Apotheosis
-https://youtu.be/wLyLEm9y2tM
+[v1](https://youtu.be/wLyLEm9y2tM)
 ```
 JESUS
 
@@ -908,8 +875,9 @@ JESUS
 
 Close your eyes, close your eyes, and arise
 ```
+
 ### Mystifying
-https://youtu.be/oJ_rmdgPStY
+[v1](https://youtu.be/oJ_rmdgPStY)
 ```
 KING CHARLES VII
 
@@ -967,8 +935,9 @@ JESUS CHRIST
 
 Not one, not one of you! 
 ```
+
 ### What's The Buzz
-https://youtu.be/F0W9whO9PNg
+[v1](https://youtu.be/F0W9whO9PNg)
 ```
 FOLLOWERS
 
@@ -1030,7 +999,7 @@ Tell me what's happening. (Repeat many times)
 ```
 
 ### Napoleon and Joan
-https://youtu.be/YllLe6OvqkE
+[v1](https://youtu.be/YllLe6OvqkE)
 ```
 NAPOLEON
 
@@ -1079,7 +1048,7 @@ Why are you here?
 ```
 
 ### The Pope's Song
-https://youtu.be/QNsn9yQxJO8
+[v1](https://youtu.be/QNsn9yQxJO8)
 ```
 THE POPE
 
@@ -1127,8 +1096,9 @@ Leave our records!
 Your standard leads nowhere, Joan,
 Erase her from our archives!
 ```
+
 ### Trial Before Napoleon
-https://youtu.be/ibNutMrc6S8
+[v1](https://youtu.be/ibNutMrc6S8)
 ```
 NAPOLEON
 
@@ -1318,7 +1288,7 @@ Be forgoteen if you want to, you innocent soul!
 ```
 
 ### I Know How To Lead Her
-https://youtu.be/zv5H9MZgk2o
+[v1](https://youtu.be/zv5H9MZgk2o)
 ```
 JESUS
 
@@ -1358,7 +1328,7 @@ I guide her so.
 ```
 
 ### La Hire Mercenary
-https://youtu.be/_NqfNsNzqdA
+[v1](https://youtu.be/_NqfNsNzqdA)
 ```
 MERCENARIES
 
@@ -1440,8 +1410,9 @@ For ever and ever and ever
 
 Forever Amen! Amen! Amen!
 ```
+
 ### Poor France
-https://youtu.be/AIj2gTP0zbk
+[v1](https://youtu.be/AIj2gTP0zbk)
 ```
 JOAN OF ARC
 
@@ -1461,8 +1432,9 @@ While you crave, your troubles are many, poor France.
 To conquer greed, you only have to give.
 You only have to give.
 ```
+
 ### Rouen
-https://youtu.be/TzyDUg-mdqs
+[v1](https://youtu.be/TzyDUg-mdqs)
 ```
 FOLLOWERS
 
@@ -1518,8 +1490,9 @@ You grilled me through.
 For how many centuries
 Have you sold my ashes?
 ```
+
 ### Paris
-https://youtu.be/TzyDUg-mdqs?feature=shared&t=146
+[v1](https://youtu.be/TzyDUg-mdqs?feature=shared&t=146)
 ```
 JOAN
 
@@ -1608,9 +1581,8 @@ MAN: Please, Joan!
 WOMAN: Touch me, Joan!
 ```
 
-
 ### Could We Start Again?
-https://youtu.be/5Olf0rMxpXY
+[v1](https://youtu.be/5Olf0rMxpXY)
 ```
 JESUS CHRIST
 
@@ -1651,8 +1623,9 @@ JESUS CHRIST
 
 Joan, could we start la nouvelle guerre spirituelle?
 ```
+
 ### SuperMaiden
-https://youtu.be/LSSvPxm4mpw
+[v1](https://youtu.be/LSSvPxm4mpw)
 ```
 NAPOLEON
 
@@ -1691,18 +1664,19 @@ Joan of Arc - SuperGirl,
 Do you think you're what we say you are?
 (Repeat many times)
 ```
+
 ### John Nineteen: Twenty-two
-https://youtu.be/NmQ0cfovSG0?feature=shared
+[v1](https://youtu.be/NmQ0cfovSG0?feature=shared)
 ```
 "Pilate answered: “What I have written, I have written.”"
 
 Instrumental
 ```
 
-## Bonus
+## Bonus 2/27
 
 ### Churchman's Denials
-https://youtu.be/h0LY4-XOmu4
+[v1](https://youtu.be/h0LY4-XOmu4)
 ```
 [FOLLOWERS:] 
 
@@ -1756,8 +1730,9 @@ you would do
 Do you wonder 
 how she knew?
 ```
+
 ### A Follower's Death
-https://youtu.be/6Ps7BQoR4dI
+[v1](https://youtu.be/6Ps7BQoR4dI)
 ```
 [FOLLOWER:] 
 
