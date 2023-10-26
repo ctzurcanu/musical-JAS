@@ -47,7 +47,7 @@ As if our fates were braid.
 FOLLOWERS
 
 Vive L'Empereur!
-
+```
 
 1429-07-17: 3. Vive Jeanne
 
