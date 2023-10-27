@@ -2033,6 +2033,7 @@ So long, Follower
 ```
 
 1981: 3. A World without Heroes
+![Scene 3.3](https://ctzurcanu.github.io/musical-JAS/assets/images/3-3-1.png)
 
 [v1](https://youtu.be/E2_7qOeXdFM?feature=shared)
 
