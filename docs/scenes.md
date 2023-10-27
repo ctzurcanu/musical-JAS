@@ -25,7 +25,7 @@ Domremy, in Jacques d'Arc's garden. “She was thirteen years old; she heard a v
 [v1](https://youtu.be/rAkL9TsJcSg)
 [v2](https://youtu.be/oxkL0BCtHn4)
 
-# Lyrics
+# Scene 1.2 Lyrics
 ```
 NAPOLEON
 
@@ -58,7 +58,7 @@ Vive L'Empereur!
 [v2](https://youtu.be/O3dVN8Wt_lk)
 
 [Cathedral of Notre-Dame of Reims, France](location)
-# Lyrics
+# Scene 1.3 Lyrics
 ```
 FOLLOWERS
 
@@ -135,7 +135,7 @@ Jeanne, Vive Jeanne, Hey Maid of Orléans!
 
 [Compiégne, France](location)
 
-# Lyrics
+# Scene 1.4 Lyrics
 ```
 KING CHARLES VII
 
@@ -200,7 +200,7 @@ She won't listen to me...
 [v1](https://youtu.be/QlgfxUGR8rg)
 
 [Church of Saint-Denys de la Chapelle, France](location)
-# Lyrics
+# Scene 1.5 Lyrics
 
 ```
 FOLLOWERS
@@ -349,7 +349,7 @@ She heard she would be captured before June 24th (John's Day). "It must be so. A
 
 [Melun, France](location)
 
-# Lyrics
+# Scene 1.6 Lyrics
 ```
 JOAN
 
@@ -410,7 +410,7 @@ Take me, now!
 Before my heart gives up.
 ```
 
-# Lyrics [French]
+# Scene 1.6 Lyrics [Fr]
 
 ```
 JEANNE
@@ -482,7 +482,7 @@ Avant que mon cœur ne lâche.
 
 [Paris, France](location)
 
-# Lyrics
+# Scene 1.7 Lyrics
 ```
 CAUCHON
 
@@ -558,7 +558,7 @@ Then we are decided.
 [v1](https://youtu.be/gVVZ3EzD_WA)
 
 [Paris, France](location)
-# Lyrics
+# Scene 1.8 Lyrics
 ```
 KING CHARLES VII
 
@@ -659,7 +659,7 @@ Well done Sire. Good old Charles.
 
 [Compiégne, France](location)
 
-# Lyrics
+# Scene 1.9 Lyrics
 ```
 JOAN
 
@@ -751,7 +751,7 @@ Take her to Rouen! (Repeat 4 times)
 [v2](https://youtu.be/rhehm5YdF8g)
 
 [Rouen, France](location)
-# Lyrics
+# Scene 1.10 Lyrics
 ```
 CHURCH ACTOR ONE
 
@@ -915,7 +915,7 @@ Wednesday, Jeanne is burned alive in the Old Marketplace at Rouen.
 
 [Rouen, France](location)
 
-# Lyrics
+# Scene 1.11 Lyrics
 
 ```
 JOAN
@@ -934,7 +934,7 @@ group Act II 14/25
 
 [Rouen, France](location)
 
-# Lyrics
+# Scene 2.1 Lyrics
 ```
 JESUS
 
@@ -1018,7 +1018,7 @@ Close your eyes, close your eyes, and arise
 ![Scene 2.2](https://ctzurcanu.github.io/musical-JAS/assets/images/2-2-1.png)
 [v1](https://youtu.be/oJ_rmdgPStY)
 
-# Lyrics
+# Scene 2.2 Lyrics
 ```
 KING CHARLES VII
 
@@ -1084,7 +1084,7 @@ Not one, not one of you!
 The Storming of the Bastille.
 
 
-# Lyrics
+# Scene 2.3 Lyrics
 ```
 FOLLOWERS
 
@@ -1153,7 +1153,7 @@ The Third French Republic
 
 [Paris, France](location)
 
-# Lyrics
+# Scene 2.4 Lyrics
 ```
 NAPOLEON
 
@@ -1207,7 +1207,7 @@ Why are you here?
 
 [Rome, Italy](location)
 
-# Lyrics
+# Scene 2.5 Lyrics
 ```
 THE POPE
 
@@ -1262,7 +1262,7 @@ Erase her from our archives!
 
 [Paris, France](location)
 
-# Lyrics
+# Scene 2.6 Lyrics
 
 ```
 NAPOLEON
@@ -1460,7 +1460,7 @@ Joan is healed by Christ and Time.
 
 [Brussels, Belgium](location)
 
-# Lyrics
+# Scene 2.7 Lyrics
 ```
 JESUS
 
@@ -1505,7 +1505,7 @@ I guide her so.
 [v2](https://youtu.be/EYM2qL0HK3A)
 [Paris, France](location)
 
-# Lyrics
+# Scene 2.8 Lyrics
 ```
 MERCENARIES
 
@@ -1594,7 +1594,7 @@ Forever Amen! Amen! Amen!
 
 [Paris, France](location)
 
-# Lyrics
+# Scene 2.9 Lyrics
 ```
 JOAN OF ARC
 
@@ -1621,7 +1621,7 @@ You only have to give.
 
 [Rouen, France](location)
 
-# Lyrics
+# Scene 2.10 Lyrics
 ```
 FOLLOWERS
 
@@ -1683,7 +1683,7 @@ Have you sold my ashes?
 [v1](https://youtu.be/TzyDUg-mdqs?feature=shared&t=146)
 [Paris, France](location)
 
-# Lyrics
+# Scene 2.11 Lyrics
 ```
 JOAN
 
@@ -1778,7 +1778,7 @@ WOMAN: Touch me, Joan!
 
 [Rouen, France](location)
 
-# Lyrics
+# Scene 2.12 Lyrics
 ```
 JESUS CHRIST
 
@@ -1825,7 +1825,7 @@ Joan, could we start la nouvelle guerre spirituelle?
 [v1](https://youtu.be/LSSvPxm4mpw)
 
 [Orleans, France](location)
-# Lyrics
+# Scene 2.13 Lyrics
 ```
 NAPOLEON
 
@@ -1871,7 +1871,7 @@ Do you think you're what we say you are?
 
 [Jerusalem, Israel](location)
 
-# Lyrics
+# Scene 2.14 Lyrics
 ```
 "Pilate answered: “What I have written, I have written.”"
 
@@ -1887,7 +1887,7 @@ group Bonus Material
 [v1](https://youtu.be/h0LY4-XOmu4)
 
 [Rome, Italy](location)
-# Lyrics
+# Scene 3.1 Lyrics
 ```
 [FOLLOWERS:] 
 
@@ -1947,7 +1947,7 @@ how she knew?
 [v1](https://youtu.be/6Ps7BQoR4dI)
 
 [New Orleans](location)
-# Lyrics
+# Scene 3.2 Lyrics
 ```
 [FOLLOWER:] 
 
@@ -2037,6 +2037,8 @@ So long, Follower
 [v1](https://youtu.be/E2_7qOeXdFM?feature=shared)
 
 [New York, USA](location)
+
+# Scene 3.3 Lyrics
 
 ```
 A world without heroes
