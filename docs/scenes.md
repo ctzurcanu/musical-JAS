@@ -23,6 +23,8 @@ Domremy, in Jacques d'Arc's garden. “She was thirteen years old; she heard a v
 [Château de Compiègne](location)
 ![Scene 1.2](https://ctzurcanu.github.io/musical-JAS/assets/images/1-2-1.png)
 [v1](https://youtu.be/rAkL9TsJcSg)
+[v2](https://youtu.be/oxkL0BCtHn4)
+
 # Lyrics
 ```
 NAPOLEON
@@ -53,7 +55,7 @@ Vive L'Empereur!
 
 ![Scene 1.3](https://ctzurcanu.github.io/musical-JAS/assets/images/1-3-1.png)
 [v1](https://youtu.be/7BDH2yB7jEM)
-
+[v2](https://youtu.be/O3dVN8Wt_lk)
 
 [Cathedral of Notre-Dame of Reims, France](location)
 # Lyrics
@@ -129,6 +131,8 @@ Jeanne, Vive Jeanne, Hey Maid of Orléans!
 1429-08-17: 4. Too much Sainthood on their Minds
 ![Scene 1.4](https://ctzurcanu.github.io/musical-JAS/assets/images/1-4-1.png)
 [v1](https://youtu.be/neE6t0WsEPQ)
+[v2](https://youtu.be/7kPio3OL-Jw)
+
 [Compiégne, France](location)
 
 # Lyrics
@@ -337,6 +341,8 @@ Soldiers, Priests, Frenchmen?
 1430-04-22: 6. Jesus, Jesus, I'll burn!
 ![Scene 1.6](https://ctzurcanu.github.io/musical-JAS/assets/images/1-6-1.png)
 [v1](https://youtu.be/nhDhyH0ggcM)
+[v2](https://youtu.be/JIqx5lXKNfk)
+[v2 French](https://youtu.be/mXbLwR8lMsQ)
 
 Saturday, Melun. Jeanne is made aware she will be captured.
 She heard she would be captured before June 24th (John's Day). "It must be so. Accept it willingly."
@@ -402,6 +408,72 @@ Burn me, light me,
 End me.
 Take me, now!
 Before my heart gives up.
+```
+
+# Lyrics [French]
+
+```
+JEANNE
+
+Je veux seulement dire,
+S'il existe un moyen,
+Éloignez de moi ces flammes,
+Car je suis plus faible que ce tourment.
+Sentez-le me brûler; j'ai changé.
+
+Jadis, j'entendais des voix, claires et brillantes. 
+Puis, j'ai été choisie.
+Maintenant, je suis piégée et empoisonnée.
+Écoute, sans doute j'ai rempli les vœux du Ciel,
+Un an de combat, me semble vingt.
+Jésus a-t-il demandé autant d'une autre âme?
+
+Mais si je brûle,
+Voyez la saga et maintenez mon étendard,
+Qu'ils me raillent, me méprisent, m'enchaînent, m'attachent aux flammes.
+
+Je veux savoir, je veux savoir, doux Christ,
+Je veux savoir, je veux savoir, cher Christ,
+Je veux voir, je veux voir, doux Saints,
+Je veux voir, je veux voir, chers Saints,
+Pourquoi dois-je brûler?
+Mon nom brillera-t-il plus que jamais?
+Les cœurs qui se sont émus battront-ils au même rythme?
+Je veux savoir, je veux savoir, doux Christ,
+Je veux voir, je veux voir, cher Christ,
+Je veux voir, je veux voir, doux Christ,
+Je veux voir, je veux voir, chers Saints,
+Je veux voir, je veux voir, doux Saints,
+Si je suis cendre, que sera alors ma couronne?
+Si je suis cendre, que sera alors ma couronne?
+Je dois savoir, je dois savoir, doux Christ,
+Je dois savoir, je dois savoir, doux Christ, Pourquoi devrais-je brûler?
+Pourquoi devrais-je brûler?
+Pouvez-vous me dire que ma poussière ne sera pas oubliée?
+Montrez-moi un fragment de votre vaste plan céleste. 
+Montrez-moi qu'il y a une raison à mes peines et mes douleurs.
+Vous m'avez choisie pour le gril, et Rouen pour les braises.
+Très bien!
+Regarde-moi brûler!
+
+Vois comme je brûle!
+Vois comme je brûle!
+oh oh oh oh!
+Vois comme je brûle!
+
+Jadis, j'étais choisie,
+Maintenant, je suis piégée et empoisonnée.
+Après tout, j'ai essayé pendant un an, ça me semble pour toujours.
+Michel, pour le Trône, ton étendard blanc j'ai porté,
+Dans l'aube incendiaire de Rouen, je brûlerai pour le Christ, seule.
+Dieu, votre volonté est dure, mais vous détenez toutes les cartes.
+Je porterai votre habit; j'accepte mon passé. 
+Emmenez-moi à ton bûcher, Rouen.
+Brûlez-moi, allumez-moi,
+Mettez fin à moi
+Prenez-moi maintenant!
+Avant que mon cœur ne lâche.
+
 ```
 
 1430-04-24: 7. Then We Are Decided
@@ -676,6 +748,7 @@ Take her to Rouen! (Repeat 4 times)
 1431-01-09: 10. This Maden has to Burn
 ![Scene 1.10](https://ctzurcanu.github.io/musical-JAS/assets/images/1-10-1.png)
 [v1](https://youtu.be/CzMVarleRhA)
+[v2](https://youtu.be/rhehm5YdF8g)
 
 [Rouen, France](location)
 # Lyrics
@@ -1429,7 +1502,7 @@ I guide her so.
 2019: 8. La Hire Mercenary
 ![Scene 2.8](https://ctzurcanu.github.io/musical-JAS/assets/images/2-8-1.png)
 [v1](https://youtu.be/_NqfNsNzqdA)
-
+[v2](https://youtu.be/EYM2qL0HK3A)
 [Paris, France](location)
 
 # Lyrics
@@ -1956,6 +2029,46 @@ Crowned me, Joan!
 So long, Follower
 Poor old Follower
 So long, Follower
+
+```
+
+1981: 3. A World without Heroes
+
+[v1](https://youtu.be/E2_7qOeXdFM?feature=shared)
+
+[New York, USA](location)
+
+```
+A world without heroes
+Is like a world without sun
+You can't look up to anyone
+Without heroes
+
+And a world without heroes
+Is like a never ending race
+Is like a time without a place
+A pointless thing, devoid of grace
+
+Where you don't know what you're after
+Or if something's after you
+And you don't know why you don't know
+In a world without heroes
+
+In a world without dreams
+Things are no more than they seem
+And a world without heroes
+Is like a bird without wings
+Or a bell that never rings
+Just a sad and useless thing
+
+Where you don't know what you're after
+Or if something's after you
+And you don't know why you don't know
+
+
+In a world without heroes
+There's nothing to be
+It's no place for me
 
 ```
 
