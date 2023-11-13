@@ -48,7 +48,7 @@ The Rock Opera "Jesus Christ, Superstar"
 - for the language of this Opera: so it has universal reach
 
 ### To Jesus Christ
-- for inspiring Jeanne
+- for inspiring Jeanne d'Arc
 - for inspiring Jesus Christ Superstar
 
 ### To Jesus Christ Superstar
@@ -59,11 +59,25 @@ The Rock Opera "Jesus Christ, Superstar"
 - for new lyrics help
 - for advice on history, other references
 
+### To DALE-2
+- for roles and scene images
+
+### To Laura Nadal
+- for her French settings repo: [Synth French Dict](https://github.com/mmemim/SynthV-FrenchDictionary)
+- and her guidence on how to use it
+
+### To Robb Anagnostis
+- for his [MIDI collection](http://www.dosguys.com/JCS/MIDI-index.htm) of "Jesus Christ Superstar"
+
+### To Claes Johanson
+- for open sourcing [Surge XT](https://surge-synthesizer.github.io/)
+
 ## Software
 
 ```
 DAW:          REAPER
 Voice Synth:  Synthesizer V Studio Pro
+Instruments:  Surge XT
 ```
 
 [back](./)
