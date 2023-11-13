@@ -5,6 +5,9 @@ layout: default
 
 # Videos by Scenes
 
+All
+[v1](https://www.youtube.com/watch?v=O8TqEvPpLw0&list=PLrZFPVQM38Me6Al6sjs9wqqOj-UePWrkU) [v2](https://www.youtube.com/watch?v=xtiJOIaWRZk&list=PLrZFPVQM38Meq7JSGpBN2m8mduyNqVlKt)
+
 
 ## ACT I 11/25
 

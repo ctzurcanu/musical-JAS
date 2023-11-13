@@ -9,6 +9,9 @@ But no one else, neither Jeanne's mother nor the witnesses at the rehabilitation
 
 section Scenes
 
+[v1](https://www.youtube.com/watch?v=O8TqEvPpLw0&list=PLrZFPVQM38Me6Al6sjs9wqqOj-UePWrkU) 
+[v2](https://www.youtube.com/watch?v=xtiJOIaWRZk&list=PLrZFPVQM38Meq7JSGpBN2m8mduyNqVlKt)
+
 group Act I
 
 1424-05/1424-08: 1. Overture. First vision. 
