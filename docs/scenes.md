@@ -1502,13 +1502,51 @@ I know her so.
 I guide her so.
 ```
 
-2019: 8. La Hire Mercenary
-![Scene 2.8](https://ctzurcanu.github.io/musical-JAS/assets/images/2-8-1.png)
+2007: 8. Joan's Light
+
+[Scene 2.8]()
+[v1](https://youtu.be/_NqfNsNzqdA)
+[v2](https://youtu.be/gLTfHohGSVE?feature=shared)
+[Jerusalem, Israel](location)
+
+# Scene 2.8 Lyrics
+
+```
+White standard, bearer of light, proof of sun's godly might 
+You give the heroes the right to know their reason to fight 
+You survived revolutions raised reborn from the pyres 
+Woven of deeds and duties moved by cosmic tremors
+How grand is this journey outside my own axes
+
+High havens rolling my heart with one thunder 
+Who am I? I live the fever of the storm of neither 
+
+I am in the center of now. Born into being here. 
+I was born to do this for ever of forever.
+Weaved the standard of hope. Shining its light whiter than white.
+In Gods crystalline sublime, through the corridors of time, the heaven's plans assembled
+
+I now begot the might and the light of the cause of reason to fight 
+I alone remain in the right of being my own virgin mother
+the eye of the I 
+
+My dear Christ, I once burned for your Church
+But in your name, good Christ, 
+For your light, I forgot to know how to die. 
+
+I now begot the might and the light of the cause of reason to fight 
+I alone remain in the right of being my own virgin mother
+the eye of the I
+
+```
+
+2019: 9. La Hire Mercenary
+![Scene 2.9](https://ctzurcanu.github.io/musical-JAS/assets/images/2-8-1.png)
 [v1](https://youtu.be/_NqfNsNzqdA)
 [v2](https://youtu.be/EYM2qL0HK3A)
 [Paris, France](location)
 
-# Scene 2.8 Lyrics
+# Scene 2.9 Lyrics
 ```
 MERCENARIES
 
@@ -1591,13 +1629,13 @@ For ever and ever and ever
 Forever Amen! Amen! Amen!
 ```
 
-2020: 9. Poor France
-![Scene 2.9](https://ctzurcanu.github.io/musical-JAS/assets/images/2-9-1.png)
+2020: 10. Poor France
+![Scene 2.10](https://ctzurcanu.github.io/musical-JAS/assets/images/2-9-1.png)
 [v1](https://youtu.be/AIj2gTP0zbk)
 
 [Paris, France](location)
 
-# Scene 2.9 Lyrics
+# Scene 2.10 Lyrics
 ```
 JOAN OF ARC
 
@@ -1618,13 +1656,13 @@ To conquer greed, you only have to give.
 You only have to give.
 ```
 
-2022: 10. Rouen
-![Scene 2.10](https://ctzurcanu.github.io/musical-JAS/assets/images/2-10-1.png)
+2022: 11. Rouen
+![Scene 2.11](https://ctzurcanu.github.io/musical-JAS/assets/images/2-10-1.png)
 [v1](https://youtu.be/TzyDUg-mdqs)
 
 [Rouen, France](location)
 
-# Scene 2.10 Lyrics
+# Scene 2.11 Lyrics
 ```
 FOLLOWERS
 
@@ -1681,12 +1719,12 @@ For how many centuries
 Have you sold my ashes?
 ```
 
-2022: 11. Paris
-![Scene 11.4](https://ctzurcanu.github.io/musical-JAS/assets/images/2-11-1.png)
+2022: 12. Paris
+![Scene 12.4](https://ctzurcanu.github.io/musical-JAS/assets/images/2-11-1.png)
 [v1](https://youtu.be/TzyDUg-mdqs?feature=shared&t=146)
 [Paris, France](location)
 
-# Scene 2.11 Lyrics
+# Scene 2.12 Lyrics
 ```
 JOAN
 
@@ -1775,13 +1813,13 @@ MAN: Please, Joan!
 WOMAN: Touch me, Joan!
 ```
 
-2023: 12. Could We Start Again?
-![Scene 2.12](https://ctzurcanu.github.io/musical-JAS/assets/images/2-12-1.png)
+2023: 13. Could We Start Again?
+![Scene 2.13](https://ctzurcanu.github.io/musical-JAS/assets/images/2-12-1.png)
 [v1](https://youtu.be/5Olf0rMxpXY)
 
 [Rouen, France](location)
 
-# Scene 2.12 Lyrics
+# Scene 2.13 Lyrics
 ```
 JESUS CHRIST
 
@@ -1823,12 +1861,12 @@ JESUS CHRIST
 Joan, could we start la nouvelle guerre spirituelle?
 ```
 
-2024: 13. SuperMaiden
-![Scene 2.13](https://ctzurcanu.github.io/musical-JAS/assets/images/2-13-1.png)
+2024: 14. SuperMaiden
+![Scene 2.14](https://ctzurcanu.github.io/musical-JAS/assets/images/2-13-1.png)
 [v1](https://youtu.be/LSSvPxm4mpw)
 
 [Orleans, France](location)
-# Scene 2.13 Lyrics
+# Scene 2.14 Lyrics
 ```
 NAPOLEON
 
@@ -1868,13 +1906,13 @@ Do you think you're what we say you are?
 (Repeat many times)
 ```
 
-2024: 14. John Nineteen: Twenty-two
-![Scene 2.14](https://ctzurcanu.github.io/musical-JAS/assets/images/2-14-1.png)
+2024: 15. John Nineteen: Twenty-two
+![Scene 2.15](https://ctzurcanu.github.io/musical-JAS/assets/images/2-14-1.png)
 [v1](https://youtu.be/NmQ0cfovSG0?feature=shared)
 
 [Jerusalem, Israel](location)
 
-# Scene 2.14 Lyrics
+# Scene 2.15 Lyrics
 ```
 "Pilate answered: “What I have written, I have written.”"
 

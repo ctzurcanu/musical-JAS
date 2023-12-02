@@ -45,7 +45,7 @@ All
 [v1](https://youtu.be/1mfNIxvW1f0)
 
 
-## ACT II 14/25
+## ACT II 15/25
 
 ### 1. Apotheosis
 [v1](https://youtu.be/wLyLEm9y2tM)
@@ -68,25 +68,28 @@ All
 ### 7. I Know How To Lead Her
 [v1](https://youtu.be/zv5H9MZgk2o)
 
-### 8. La Hire Mercenary
+### 8. Joan's Light
+[v2](https://youtu.be/gLTfHohGSVE)
+
+### 9. La Hire Mercenary
 [v1](https://youtu.be/_NqfNsNzqdA)
 
-### 9. Poor France
+### 10. Poor France
 [v1](https://youtu.be/AIj2gTP0zbk)
 
-### 10. Rouen
+### 11. Rouen
 [v1](https://youtu.be/TzyDUg-mdqs)
 
-### 11. Paris
+### 12. Paris
 [v1](https://youtu.be/TzyDUg-mdqs?feature=shared&t=146)
 
-### 12. Could We Start Again?
+### 13. Could We Start Again?
 [v1](https://youtu.be/5Olf0rMxpXY)
 
-### 13. SuperMaiden
+### 14. SuperMaiden
 [v1](https://youtu.be/LSSvPxm4mpw)
 
-### 14. John Nineteen: Twenty-two
+### 15. John Nineteen: Twenty-two
 [v1](https://youtu.be/NmQ0cfovSG0?feature=shared)
 
 ## Bonus 2/27
