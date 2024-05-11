@@ -4,13 +4,18 @@ layout: default
 
 # Credits
 
+![From God](https://ctzurcanu.github.io/musical-JAS/assets/images/DuParDuCiel.png)
+
 ## Persons
 ```
-Moral Standard:   Joan of Arc Romee
+Moral Standard:   Joan of Arc Romée
 Music:            Andrew Lloyd Webber 
 Lyrics:           Tim Rice
                   ChatGPT4
                   Christian Tzurcanu
+Comics Text:      André Préaux
+Comics Drawings:  Michael Jean
+AI Drawings:      Christian Tzurcanu
 AI Voice Editor:  Christian Tzurcanu
 Re-Ochestration:  Christian Tzurcanu
 ```
@@ -19,12 +24,13 @@ Re-Ochestration:  Christian Tzurcanu
 
 ```
 The Rock Opera "Jesus Christ, Superstar"
+Musée Jeanne d'Arc Rouen
 ```
 
 ## Gratitudes
 
 ### To Napoleon and all European Nobility
-- for treasuring the memory of Jeanne d'Arc Romee
+- for treasuring the memory of Jeanne d'Arc Romée
 - for maintaining inspiration
 - for being patrons of works of art for Jeanne
 
@@ -61,10 +67,6 @@ The Rock Opera "Jesus Christ, Superstar"
 
 ### To DALE-2
 - for roles and scene images
-
-### To Laura Nadal
-- for her French settings repo: [Synth French Dict](https://github.com/mmemim/SynthV-FrenchDictionary)
-- and her guidence on how to use it
 
 ### To Robb Anagnostis
 - for his [MIDI collection](http://www.dosguys.com/JCS/MIDI-index.htm) of "Jesus Christ Superstar"
